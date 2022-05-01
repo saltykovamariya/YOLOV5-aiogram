@@ -1,0 +1,1 @@
+from my_bot.handlers.bot_handlers import register_bot_handlers
